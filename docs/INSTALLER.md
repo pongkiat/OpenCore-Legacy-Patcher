@@ -36,7 +36,8 @@ Since the patcher officially supports Big Sur and newer for patching, only those
 
 Once finished, you can proceed to write the installer onto a USB drive.
 
-* Note: The entire USB drive will be formatted
+* Note: The USB drive must be formatted as Mac OS Extended (Journaled), and make sure the volume is named "Untitled"
+* Note 2: The entire USB drive will be formatted
 
 | Select Downloaded Installer | Select disk to format |
 | :--- | :--- |
